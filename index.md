@@ -2,122 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Ludovic Vétéa Mompelat
 
-[Link to another page](./another-page.html).
+## About me
 
-There should be whitespace between paragraphs.
+    Ludovic Vetea Mompelat is an Assistant Professor of French Linguistics, Creolistics and Computational Linguistics. His research lies at the intersection of Natural Language Processing (NLP), Machine Learning, Corpus Linguistics, Syntax, Semantics, and Sociolinguistics. His training in formal Linguistics with a focus on French and French-based Creoles, as well as in Computational Linguistics allows him to use a mixed-method cross-disciplinary research approach in his work. Some of his publications such as “How to Parse a Creole: When Martinican Creole Meets French” (2023)  and “To Infinitive and Beyond, or Revisiting Finiteness in Creoles: A Contrastive Study of the Complementation Systems of Martinican Creole and Haitian Creole” (2023) are articulated around two complementary axes: first, the linguistic study and formal development of Creole languages, in comparison to one another and their lexifier language, and second, the creation of NLP solutions for under-represented languages as well as their promotion in the computational linguistics world.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Contact information
+Ludovic Mompelat ([email](lvm861@miami.edu))
 
-# Header 1
+## Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*   Ph.D. French Linguistics, Indiana University
+*   Ph.D. Computational Linguistics, Indiana University
+*   M.A French Linguistics, Indiana University
+*   M.A Computational Linguistics, Indiana University
+*   M.A Teaching French as a Foreign Language (FLE), Université Catholique de L’Ouest
+*   B.A English, German, Spanish Languages, Literatures and Civilizations, Université Catholique de l’Ouest
 
-## Header 2
+## Publications
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+*   Cavar, D., Mompelat, L., & Abdo, M. (2024, March). The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. In Proceedings of the 6th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (pp. 46-54).
 
-### Header 3
+## My links
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Write some useful links for you!
